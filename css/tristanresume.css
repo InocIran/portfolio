@@ -1,0 +1,33 @@
+body
+{
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100px;
+   
+}
+h1
+{
+    line-break: anywhere;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    font-size: 600%;
+    text-size-adjust: 200px;
+    margin-bottom: 10px;
+}
+.paragraph
+{
+    text-shadow: 10%;
+    text-align: left;
+}
+img{
+    border-radius: 50%;
+    height: 700px;
+    width: 700px;
+}
+.fa-facebook
+{
+        background: #3B5998;
+        color: white;
+}

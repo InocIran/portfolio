@@ -1,0 +1,19 @@
+body{
+    background-image: url(kyrie.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+h1
+{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
+p
+{
+    color: white;
+}
+
+    
